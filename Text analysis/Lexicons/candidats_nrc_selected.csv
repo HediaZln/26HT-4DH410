@@ -1,0 +1,615 @@
+lemme;categorie;freq_corpus;pos;decision;remarque;autre_lexique;anger;anticipation;disgust;fear;joy;negative;positive;sadness;surprise;trust
+bien;AFFECT;353;ADV;Out;function word;;0;1;0;0;1;0;1;0;1;1
+monsieur;AFFECT;166;NOUN;Out;Not emotion;;1;0;1;1;0;1;1;0;0;1
+croire;AFFECT;124;VERB;Out;function word;;0;0;0;0;0;0;1;0;0;1
+donner;AFFECT;124;VERB;Out;function word;;0;0;0;0;0;0;1;0;0;1
+premier;AFFECT;121;ADJ;Out;function word;;0;0;0;0;0;0;1;0;0;1
+attendre;AFFECT;117;VERB;Out;function word;;0;1;0;0;0;0;1;0;1;1
+aimer;AFFECT;115;VERB;Keep;;;0;0;0;0;1;0;1;0;0;1
+chef;AFFECT;103;NOUN;Out;Not emotion;;0;0;0;0;0;0;1;0;0;1
+président;AFFECT;85;NOUN;Out;Not emotion;;0;0;0;0;0;0;1;0;0;1
+rire;AFFECT;61;NOUN;Out;;;0;1;0;0;1;0;1;0;1;0
+haut;AFFECT;53;ADJ;Out;too generic;;0;1;0;0;0;0;1;0;0;1
+heureux;AFFECT;50;ADJ;Out;;;0;1;0;0;1;0;1;0;0;1
+argent;AFFECT;46;NOUN;Keep;Out of this category;possession;1;1;0;0;1;0;1;0;1;1
+force;AFFECT;46;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+mère;AFFECT;46;NOUN;Out;;;0;1;0;0;1;1;1;1;0;1
+franc;AFFECT;44;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+achever;AFFECT;42;VERB;Out;function word;;0;1;0;0;1;0;1;0;0;0
+sûr;AFFECT;42;ADJ;Out;Out of this category / too generic;;0;0;0;0;1;0;1;0;0;1
+vérité;AFFECT;42;NOUN;Out;Out of this category / too generic;;0;0;0;0;0;0;1;0;0;1
+dame;AFFECT;40;NOUN;Out;Out of this category / too generic;;1;0;1;0;0;0;1;0;0;1
+épaule;AFFECT;40;NOUN;Keep;Out of this category / too generic;corps;0;0;0;0;0;0;1;0;0;1
+amour;AFFECT;38;NOUN;Keep;;;0;1;0;0;1;0;1;0;0;1
+mot;AFFECT;38;NOUN;Out;Out of this category / too generic;;0;0;0;0;0;0;1;0;0;1
+sourire;AFFECT;38;VERB;Keep;;;0;1;0;0;1;0;1;0;1;1
+vif;AFFECT;38;ADJ;Out;;;0;0;0;0;1;0;1;0;0;0
+instruction;AFFECT;36;NOUN;Out;Out of this category / too generic;;0;0;0;0;0;0;1;0;0;1
+VRAI;AFFECT;35;ADJ;Out;Out of this category / too generic;;0;0;0;0;1;0;1;0;0;1
+ami;AFFECT;34;NOUN;Keep;;;0;0;0;0;1;0;1;0;0;1
+justice;AFFECT;34;NOUN;Out;Out of this category / too generic;;0;0;0;0;0;0;1;0;0;1
+tranquille;AFFECT;34;NOUN;Out;;;0;0;0;0;1;0;1;0;0;0
+enfant;AFFECT;33;NOUN;Out;;;0;1;0;0;1;0;1;0;0;0
+droit;AFFECT;32;NOUN;Out;Out of this category / too generic;;0;0;0;0;0;0;1;0;0;1
+frisson;AFFECT;32;NOUN;Keep;;Corps;1;1;0;1;1;1;1;1;1;0
+surprendre;AFFECT;32;VERB;Keep;;possession;0;0;0;1;1;1;1;0;1;0
+éclairer;AFFECT;32;VERB;Out;;;0;1;0;0;1;0;1;0;1;1
+soleil;AFFECT;31;NOUN;Out;Out of this category / too generic;;0;1;0;0;1;0;1;0;1;1
+plaisir;AFFECT;30;NOUN;Keep;;;0;1;0;0;1;0;1;0;0;0
+posséder;AFFECT;30;VERB;Keep;Out of this category / too generic;possession;0;1;0;0;1;0;1;0;0;1
+apporter;AFFECT;29;VERB;Out;function word;;0;0;0;0;0;0;1;0;0;1
+bonheur;AFFECT;26;NOUN;Keep;;;0;1;0;0;1;0;1;0;0;0
+cabinet;AFFECT;26;NOUN;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+recevoir;AFFECT;25;VERB;Out;function word;;0;1;0;0;1;0;1;0;1;0
+compter;AFFECT;24;VERB;Out;function word;;0;0;0;0;0;0;1;0;0;1
+frère;AFFECT;24;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+général;AFFECT;24;ADJ;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+camarade;AFFECT;23;NOUN;Keep;;;0;0;0;0;0;0;1;0;0;1
+glisser;AFFECT;23;VERB;Out;function word;;0;1;0;0;1;0;1;0;0;0
+aider;AFFECT;22;VERB;Out;;;0;0;0;0;0;0;1;0;0;1
+joie;AFFECT;22;NOUN;Keep;;;0;0;0;0;1;0;1;0;0;0
+conscience;AFFECT;21;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+course;AFFECT;21;NOUN;Out;Out of this category ;;0;1;0;0;0;0;1;0;0;1
+tendresse;AFFECT;20;NOUN;Keep;;;0;0;0;0;1;0;1;0;0;0
+jurer;AFFECT;19;VERB;Out;;;0;0;0;0;0;0;1;0;0;1
+ardent;AFFECT;18;ADJ;Keep;;;0;1;0;0;1;0;1;0;0;0
+avouer;AFFECT;18;VERB;Out;;;0;0;0;0;0;1;1;0;0;1
+embrasser;AFFECT;18;VERB;Keep;;corps;0;1;0;0;1;0;1;0;1;0
+ensemble;AFFECT;18;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+travail;AFFECT;18;NOUN;Out;Out of this category ;;0;1;0;0;1;0;1;0;1;1
+affirmer;AFFECT;17;VERB;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+arbre;AFFECT;17;NOUN;Out;Out of this category ;;1;1;1;0;1;0;1;0;1;1
+cour;AFFECT;17;NOUN;Out;;;0;1;0;0;1;0;1;0;0;1
+grandir;AFFECT;17;VERB;Out;;;0;1;0;0;1;0;1;0;0;1
+taper;AFFECT;17;VERB;Out;;;0;1;0;0;1;0;1;0;0;1
+apprendre;AFFECT;16;VERB;Out;Out of this category ;;0;0;0;0;1;0;1;0;1;1
+courage;AFFECT;16;NOUN;Out;;;0;0;0;0;1;0;1;0;0;1
+fortune;AFFECT;16;NOUN;Keep;;possession;0;1;0;0;1;0;1;0;1;1
+intérieur;AFFECT;16;ADJ;Out;Out of this category ;;0;0;1;0;0;0;1;0;0;1
+étreinte;AFFECT;16;NOUN;Keep;;corps;0;0;0;0;1;0;1;0;0;1
+amuser;AFFECT;15;VERB;Out;;;0;0;0;0;1;0;1;0;0;0
+assurer;AFFECT;15;VERB;Out;;;0;0;0;0;0;0;1;0;0;1
+paix;AFFECT;15;NOUN;Out;;;0;1;0;0;1;0;1;0;0;1
+plaisanter;AFFECT;15;VERB;Out;;;0;0;0;0;1;1;1;0;1;0
+tante;AFFECT;15;NOUN;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+échanger;AFFECT;15;VERB;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+éclat;AFFECT;15;NOUN;Out;;;0;1;0;0;1;1;1;0;0;1
+conseiller;AFFECT;14;VERB;Out;Out of this category ;;1;0;0;1;0;1;1;0;0;1
+gentil;AFFECT;14;ADJ;Out;;;0;0;0;0;1;0;1;0;0;1
+mariage;AFFECT;14;NOUN;Out;;;0;1;0;0;1;0;1;0;0;1
+médecin;AFFECT;14;NOUN;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+étoile;AFFECT;14;NOUN;Out;Out of this category ;;0;1;0;0;1;0;1;0;0;1
+aimable;AFFECT;13;ADJ;Keep;;;0;0;0;0;1;0;1;0;0;1
+convaincre;AFFECT;13;VERB;Out;Out of this category ;;0;1;0;0;0;0;1;0;0;1
+honnête;AFFECT;13;NOUN;Out;;;1;0;1;1;1;0;1;1;0;1
+jardin;AFFECT;13;ADJ;Out;Out of this category ;;0;0;0;0;1;0;1;0;0;0
+jeunesse;AFFECT;13;NOUN;Out;;;1;1;0;1;1;0;1;0;1;0
+payer;AFFECT;13;VERB;Keep;Out of this category ;possession;0;1;0;0;1;0;1;0;0;1
+promettre;AFFECT;13;VERB;Out;;;0;0;0;0;1;0;1;0;0;1
+vivant;AFFECT;13;NOUN;Out;;;0;1;0;0;1;0;1;0;0;1
+véritable;AFFECT;13;ADJ;Out;;;0;0;0;0;0;0;1;0;0;1
+gai;AFFECT;12;ADJ;Out;;;0;1;0;0;1;0;1;0;0;0
+lueur;AFFECT;12;NOUN;Out;Out of this category ;;0;1;0;0;1;0;1;0;1;1
+niveau;AFFECT;12;NOUN;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+terrain;AFFECT;12;NOUN;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+adorer;AFFECT;11;VERB;Keep;;;0;1;0;0;1;0;1;0;0;1
+marier;AFFECT;11;VERB;Keep;;;0;1;0;1;1;0;1;0;1;1
+rassurer;AFFECT;11;VERB;Keep;;;0;0;0;0;0;0;1;0;0;1
+réparation;AFFECT;11;NOUN;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+conseil;AFFECT;10;NOUN;Out;Out of this category ;;0;1;0;0;0;0;1;0;0;1
+content;AFFECT;10;ADJ;Out;;;0;1;0;0;1;0;1;0;0;0
+espoir;AFFECT;10;NOUN;Out;;;0;1;0;0;1;0;1;0;1;1
+puissant;AFFECT;10;ADJ;Keep;;Corps;1;1;1;1;1;0;1;0;0;1
+souriant;AFFECT;10;ADJ;Out;;;0;0;0;0;1;0;1;0;0;0
+amoureux;AFFECT;9;NOUN;Keep;;;0;1;0;0;1;0;1;1;0;1
+cadeau;AFFECT;9;NOUN;Keep;;possession;0;1;0;0;1;0;1;0;1;1
+dépasser;AFFECT;9;VERB;Out;Out of this category ;;0;1;0;0;1;0;1;0;0;0
+gaieté;AFFECT;9;NOUN;Out;;;0;1;0;0;1;0;1;0;1;1
+innocent;AFFECT;9;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+intelligence;AFFECT;9;NOUN;Out;Out of this category ;;0;0;0;1;1;0;1;0;0;1
+joli;AFFECT;9;ADJ;Out;;;0;1;0;0;1;0;1;1;1;1
+ministère;AFFECT;9;NOUN;Out;Out of this category ;;0;0;0;0;1;0;1;0;0;1
+politique;AFFECT;9;ADJ;Out;Out of this category ;;1;0;1;0;0;0;1;0;0;1
+procureur;AFFECT;9;NOUN;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+profiter;AFFECT;9;VERB;Out;Out of this category ;;0;1;0;0;1;0;1;0;0;1
+satisfaire;AFFECT;9;VERB;Keep;;;0;0;0;0;1;0;1;0;1;0
+triomphe;AFFECT;9;NOUN;Out;;;0;1;0;0;1;0;1;0;0;0
+accord;AFFECT;8;NOUN;Out;;;0;1;0;0;1;0;1;0;1;1
+atteindre;AFFECT;8;VERB;Out;Out of this category ;;0;0;0;0;1;0;1;0;0;1
+aube;AFFECT;8;NOUN;Out;Out of this category ;;0;1;0;0;1;0;1;0;1;1
+blancheur;AFFECT;8;NOUN;Out;Out of this category ;;0;0;0;0;1;0;1;0;0;0
+complet;AFFECT;8;ADJ;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+enfance;AFFECT;8;NOUN;Out;;;0;0;0;0;1;0;1;0;0;0
+exciter;AFFECT;8;VERB;Keep;;corps;1;1;0;1;1;0;1;0;1;0
+fête;AFFECT;8;NOUN;Out;;;0;1;0;0;1;1;1;0;1;1
+jolie;AFFECT;8;NOUN;Out;;;0;1;0;0;1;0;1;0;0;1
+liberté;AFFECT;8;NOUN;Out;;;0;1;0;0;1;0;1;0;1;1
+patience;AFFECT;8;NOUN;Out;;;0;1;0;0;0;0;1;0;0;1
+prudent;AFFECT;8;ADJ;Out;Out of this category ;;0;1;0;1;0;0;1;0;0;1
+saluer;AFFECT;8;VERB;Out;Out of this category ;;0;0;0;0;1;0;1;0;0;0
+chance;AFFECT;7;NOUN;Out;;;0;1;0;0;1;0;1;0;1;0
+délicieuse;AFFECT;7;NOUN;Out;;;0;0;0;0;1;0;1;0;0;0
+fidèle;AFFECT;7;ADV;Keep;;possession;0;0;0;0;0;0;1;0;0;1
+fier;AFFECT;7;ADJ;Out;;;0;1;0;0;1;0;1;0;0;1
+honneur;AFFECT;7;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+huissier;AFFECT;7;NOUN;Out;Out of this category ;;0;0;0;1;0;1;1;0;0;1
+saut;AFFECT;7;NOUN;Out;Out of this category ;;0;0;0;0;1;0;1;0;0;0
+société;AFFECT;7;NOUN;Out;Out of this category ;;0;0;0;0;0;0;1;0;0;1
+vierge;AFFECT;7;NOUN;Keep;;corps;0;0;0;0;0;0;1;0;0;1
+étonnement;AFFECT;7;NOUN;Out;;;0;0;0;0;1;0;1;0;1;0
+avance;AFFECT;6;NOUN;Out;Out of this category ;;0;1;0;1;1;0;1;0;1;0
+avocat;AFFECT;6;NOUN;Out;Out of this category;;1;0;1;1;0;1;1;0;0;1
+aîné;AFFECT;6;NOUN;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+beauté;AFFECT;6;NOUN;Out;;;0;0;0;0;1;0;1;0;0;0
+entente;AFFECT;6;NOUN;Keep;;;0;0;0;0;0;0;1;0;0;1
+exact;AFFECT;6;NOUN;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+familier;AFFECT;6;ADJ;Keep;;;0;0;0;0;0;0;1;0;0;1
+félicité;AFFECT;6;NOUN;Keep;;;0;0;0;0;1;0;1;0;0;0
+gardien;AFFECT;6;NOUN;Out;Out of this category;;0;0;0;1;0;0;1;0;0;1
+habituel;AFFECT;6;ADJ;Out;;;0;1;0;0;0;0;1;0;0;1
+heureusement;AFFECT;6;ADV;Out;;;0;1;0;0;1;0;1;0;1;0
+héritage;AFFECT;6;NOUN;Keep;Out of this category;possession;0;1;0;0;1;0;1;0;1;1
+judiciaire;AFFECT;6;ADJ;Out;Out of this category;;0;1;0;0;0;0;1;0;0;1
+musique;AFFECT;6;NOUN;Out;Out of this category;;0;0;0;0;1;0;1;1;0;0
+prier;AFFECT;6;VERB;Out;;;0;1;0;1;1;0;1;0;1;1
+protéger;AFFECT;6;VERB;Keep;;;0;0;0;0;0;0;1;0;0;1
+reconnaissance;AFFECT;6;NOUN;Keep;;;0;0;0;0;1;0;1;0;0;0
+satisfait;AFFECT;6;ADJ;Out;;;0;0;0;0;1;0;1;0;0;0
+vigoureux;AFFECT;6;ADJ;Out;;;0;0;1;0;0;0;1;0;0;1
+abri;AFFECT;5;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+accorder;AFFECT;5;VERB;Out;;;0;1;0;0;1;0;1;0;0;1
+chanter;AFFECT;5;VERB;Out;;;0;1;0;0;1;0;1;1;0;1
+câlin;AFFECT;5;ADJ;Keep;;;0;0;0;0;1;0;1;0;0;1
+fleur;AFFECT;5;NOUN;Out;Out of this category;;0;0;0;0;1;0;1;0;0;0
+foi;AFFECT;5;NOUN;Out;;;0;1;0;0;1;0;1;0;0;1
+franchise;AFFECT;5;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+guérir;AFFECT;5;VERB;Out;;;0;0;0;0;1;0;1;0;0;1
+infini;AFFECT;5;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;0;0;1
+librement;AFFECT;5;ADV;Out;;;0;0;0;0;1;0;1;0;0;1
+parfait;AFFECT;5;ADJ;Out;;;0;1;0;0;1;0;1;0;0;1
+profondeur;AFFECT;5;NOUN;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+recommander;AFFECT;5;VERB;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+retraite;AFFECT;5;NOUN;Out;Out of this category;;0;1;0;1;1;1;1;1;0;1
+sain;AFFECT;5;ADJ;Out;;;0;0;0;0;0;0;1;0;0;1
+sceller;AFFECT;5;VERB;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+supporter;AFFECT;5;VERB;Out;;;0;0;0;0;1;0;1;0;0;1
+traiter;AFFECT;5;VERB;Out;Out of this category;;1;1;1;1;1;1;1;1;1;1
+activer;AFFECT;4;VERB;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+admirable;AFFECT;4;ADJ;Out;;;0;0;0;0;1;0;1;0;0;1
+affection;AFFECT;4;NOUN;Keep;;;0;0;0;0;1;0;1;0;0;1
+agréable;AFFECT;4;ADJ;Out;;;0;1;0;0;1;0;1;0;1;1
+ambition;AFFECT;4;NOUN;Out;;;0;1;0;0;1;0;1;0;0;1
+animer;AFFECT;4;VERB;Out;;;0;0;0;0;1;0;1;0;1;1
+belle;AFFECT;4;NOUN;Out;;;0;0;0;0;1;0;1;0;0;0
+compagnon;AFFECT;4;NOUN;Keep;;;0;0;0;0;0;0;1;0;0;1
+excitation;AFFECT;4;NOUN;Keep;;Corps;1;1;0;1;1;0;1;0;1;0
+fantaisie;AFFECT;4;NOUN;Out;;;0;1;0;0;1;0;1;0;0;0
+important;AFFECT;4;ADJ;Out;;;0;0;0;0;0;0;1;0;0;1
+louer;AFFECT;4;VERB;Out;;;0;0;0;0;1;0;1;0;0;1
+miracle;AFFECT;4;NOUN;Out;;;0;1;0;0;1;0;1;0;1;1
+morale;AFFECT;4;NOUN;Out;;;1;1;1;0;1;0;1;0;1;1
+orgueil;AFFECT;4;NOUN;Out;;;0;0;0;0;1;0;1;0;0;0
+partager;AFFECT;4;VERB;Out;Out of this category;;0;1;0;0;1;0;1;0;0;1
+police;AFFECT;4;NOUN;Out;Out of this category;;0;0;0;1;0;0;1;0;0;1
+protecteur;AFFECT;4;NOUN;Keep;;;0;0;0;0;0;0;1;0;0;1
+prévoir;AFFECT;4;VERB;Out;Out of this category;;0;1;0;0;0;0;1;0;1;1
+responsabilité;AFFECT;4;NOUN;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+réussir;AFFECT;4;ADV;Out;;;0;1;0;0;1;0;1;0;1;1
+rêverie;AFFECT;4;NOUN;Keep;;;0;0;0;0;1;0;1;0;0;1
+salut;AFFECT;4;ADJ;Out;Out of this category;;0;1;0;0;1;0;1;0;0;1
+sauvetage;AFFECT;4;NOUN;Out;;;0;1;0;0;1;0;1;0;1;1
+sonore;AFFECT;4;ADJ;Out;Out of this category;;0;0;0;0;1;0;1;0;0;0
+vacance;AFFECT;4;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;0;0;0
+vert;AFFECT;4;NOUN;Out;Out of this category;;0;0;0;0;1;0;1;0;0;1
+élégant;AFFECT;4;ADJ;Out;;;0;0;0;0;1;0;1;0;0;0
+éternel;AFFECT;4;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;1;0;1
+évident;AFFECT;4;ADJ;Out;;;0;0;0;0;0;0;1;0;0;1
+adorable;AFFECT;3;ADJ;Keep;;;0;0;0;0;1;0;1;0;0;0
+art;AFFECT;3;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;1;1;0
+attentif;AFFECT;3;ADJ;Keep;;;0;0;0;0;0;0;1;0;0;1
+communiquer;AFFECT;3;VERB;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+confiance;AFFECT;3;NOUN;Keep;;;0;0;0;1;1;0;1;0;0;1
+consciencieux;AFFECT;3;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+digne;AFFECT;3;ADJ;Out;;;0;0;0;0;0;0;1;0;0;1
+donation;AFFECT;3;NOUN;Keep;Out of this category;possession;0;0;0;0;0;0;1;0;0;1
+déclaration;AFFECT;3;NOUN;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+défenseur;AFFECT;3;NOUN;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+dépendance;AFFECT;3;NOUN;Keep;Out of this category;possession;0;0;0;1;0;1;1;1;0;1
+fournir;AFFECT;3;VERB;Out;Out of this category;;0;1;0;0;1;0;1;0;0;1
+gloire;AFFECT;3;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;0;0;1
+guérison;AFFECT;3;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;0;0;1
+indestructible;AFFECT;3;ADJ;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+inspiration;AFFECT;3;NOUN;Out;;;0;1;0;0;1;0;1;0;0;0
+intact;AFFECT;3;ADJ;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+inébranlable;AFFECT;3;ADJ;Out;;;0;0;0;0;0;0;1;0;0;1
+nettoyer;AFFECT;3;VERB;Out;Out of this category;;0;0;0;0;1;0;1;0;0;1
+pilote;AFFECT;3;NOUN;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+prime;AFFECT;3;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;0;1;1
+responsable;AFFECT;3;ADJ;Out;Out of this category;;0;0;0;0;0;0;1;0;0;1
+sensuel;AFFECT;3;ADJ;Keep;;corps;0;1;0;0;1;1;1;0;1;1
+serment;AFFECT;3;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+sexe;AFFECT;3;NOUN;Keep;;corps;0;1;0;0;1;0;1;0;0;1
+supplication;AFFECT;3;NOUN;Out;;;0;0;0;0;0;0;1;0;0;1
+séduire;AFFECT;3;VERB;Keep;;;0;1;0;0;1;1;1;0;1;0
+théâtre;AFFECT;3;NOUN;Out;Out of this category;;0;0;0;0;1;0;1;0;0;0
+utile;AFFECT;3;ADJ;Out;Out of this category;;0;0;0;0;1;0;1;0;0;1
+zèle;AFFECT;3;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;0;1;1
+évanoui;AFFECT;3;NOUN;Out;Out of this category;;0;1;0;0;1;0;1;0;0;1
+monsieur;VIOL;166;NOUN;Out;Out of this category;;1;0;1;1;0;1;1;0;0;1
+sentir;VIOL;139;VERB;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+bas;VIOL;133;ADJ;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+tuer;VIOL;132;VERB;Keep;;;1;0;0;1;0;1;0;1;0;0
+sang;VIOL;86;NOUN;Keep;;corps;1;0;1;1;0;1;0;1;0;0
+doute;VIOL;84;NOUN;Out;;;0;0;0;1;0;1;0;1;0;1
+perdre;VIOL;79;VERB;Out;Out of this category;;1;0;1;1;0;1;0;1;1;0
+peur;VIOL;72;NOUN;Keep;;;0;1;0;1;0;1;0;0;0;0
+gros;VIOL;65;ADJ;Out;Out of this category;;0;0;1;0;0;1;0;1;0;0
+peine;VIOL;64;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+pousser;VIOL;62;VERB;Out;;;1;0;0;0;0;1;0;0;0;0
+corps;VIOL;59;NOUN;Keep;;corps;0;0;1;0;0;1;0;1;0;0
+meurtre;VIOL;59;NOUN;Keep;;;1;0;1;1;0;1;0;1;1;0
+mal;VIOL;58;NOUN;Keep;;;1;0;1;1;0;1;0;1;0;0
+cacher;VIOL;57;VERB;Out;;;0;0;0;1;0;1;0;1;0;0
+tour;VIOL;48;NOUN;Out;Out of this category;;1;0;1;0;0;1;0;0;1;0
+ligne;VIOL;47;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+mourir;VIOL;44;VERB;Keep;;;0;0;0;1;0;1;0;1;0;0
+gorge;VIOL;42;NOUN;Keep;;corps;0;0;1;0;0;1;0;0;0;0
+battre;VIOL;40;VERB;Keep;;;1;0;0;1;0;1;0;1;0;0
+cesser;VIOL;35;VERB;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+tirer;VIOL;35;VERB;Out;Out of this category;;1;0;0;1;0;1;1;0;0;0
+frisson;VIOL;32;NOUN;Keep;;corps;1;1;0;1;1;1;1;1;1;0
+fuir;VIOL;32;VERB;Keep;;;0;0;0;1;0;1;0;0;0;0
+surprendre;VIOL;32;VERB;Out;;;0;0;0;1;1;1;1;0;1;0
+échapper;VIOL;32;VERB;Out;;;0;1;0;1;0;1;1;0;0;0
+écraser;VIOL;32;VERB;Keep;;;1;0;1;0;0;1;0;0;0;0
+éviter;VIOL;32;VERB;Out;;;1;0;1;1;0;1;0;1;0;0
+cri;VIOL;31;NOUN;Keep;;;1;0;0;1;0;1;0;1;1;0
+mauvais;VIOL;31;ADJ;Keep;;;1;0;1;1;0;1;0;1;0;0
+traverser;VIOL;31;VERB;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+violent;VIOL;31;ADJ;Keep;;;1;0;1;1;0;1;0;0;1;0
+affreux;VIOL;30;ADJ;Keep;;;1;0;1;1;0;1;0;1;0;0
+disparaître;VIOL;29;VERB;Out;Out of this category;;0;0;0;1;0;1;0;0;1;0
+coupable;VIOL;28;ADJ;Keep;;;1;0;1;1;0;1;0;1;0;0
+sombre;VIOL;28;NOUN;Keep;;;1;1;1;1;0;1;0;1;0;0
+victime;VIOL;28;NOUN;Keep;;;1;0;1;1;0;1;0;1;1;0
+assassin;VIOL;27;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+souffler;VIOL;27;VERB;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+bord;VIOL;26;NOUN;Out;Out of this category;;0;1;0;1;0;1;0;0;0;0
+crier;VIOL;26;VERB;Keep;;;1;0;0;1;0;1;0;0;1;0
+danger;VIOL;26;VERB;Keep;;;0;0;0;1;0;1;0;1;0;0
+moindre;VIOL;26;ADJ;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+vide;VIOL;26;ADJ;Out;Out of this category;;0;0;1;0;0;1;0;1;0;0
+désert;VIOL;25;ADJ;Out;;;1;0;1;1;0;1;0;1;0;0
+frapper;VIOL;25;VERB;Keep;;;1;0;0;1;0;1;0;1;0;0
+murmurer;VIOL;25;VERB;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+terrible;VIOL;25;ADJ;Keep;;;1;0;1;1;0;1;0;1;1;0
+inquiet;VIOL;24;ADJ;Out;;;0;1;1;1;0;1;0;0;0;0
+rage;VIOL;24;NOUN;Keep;;;1;0;1;1;0;1;0;0;0;0
+trembler;VIOL;24;VERB;Out;;;0;0;0;1;0;1;0;0;0;0
+étouffer;VIOL;24;VERB;Keep;;;1;0;0;0;0;1;0;1;0;0
+choc;VIOL;23;NOUN;Out;;;1;0;0;1;0;1;0;0;1;0
+envahir;VIOL;23;VERB;Keep;;possession;1;0;0;1;0;1;0;1;1;0
+fou;VIOL;23;ADJ;Keep;;;1;0;1;1;0;1;0;1;0;0
+furieux;VIOL;23;ADJ;Keep;;;1;0;1;0;0;1;0;0;0;0
+sauvage;VIOL;23;NOUN;Keep;;;1;0;0;1;0;1;0;0;1;0
+abominable;VIOL;22;ADJ;Keep;;;0;0;1;1;0;1;0;0;0;0
+accident;VIOL;22;NOUN;Out;;;0;0;0;1;0;1;0;1;1;0
+barrière;VIOL;22;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+rail;VIOL;22;NOUN;Out;Out of this category;;1;1;0;0;0;1;0;0;0;0
+abandonner;VIOL;21;VERB;Out;;;0;0;0;1;0;1;0;1;0;0
+colère;VIOL;21;NOUN;Keep;;;1;0;0;1;0;1;0;0;0;0
+foule;VIOL;21;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;0;0;0
+malade;VIOL;21;ADJ;Keep;;;1;0;1;1;0;1;0;1;0;0
+menacer;VIOL;21;VERB;Keep;;;1;1;0;1;0;1;0;0;0;0
+briser;VIOL;20;VERB;Keep;;;1;0;0;1;0;1;0;1;1;0
+cadavre;VIOL;20;NOUN;Keep;;Corps;0;0;1;1;0;1;0;1;1;0
+craindre;VIOL;20;VERB;Keep;;;1;0;0;1;0;1;0;0;0;0
+douleur;VIOL;20;NOUN;Keep;;;0;0;1;0;0;1;0;1;0;0
+maîtresse;VIOL;20;NOUN;Keep;;possession;1;0;1;0;0;1;0;0;0;0
+obstacle;VIOL;20;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+sol;VIOL;20;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+séparer;VIOL;20;VERB;Out;;;1;0;1;0;0;1;0;1;0;0
+angoisse;VIOL;19;NOUN;Out;;;1;0;0;1;0;1;0;1;0;0
+tristesse;VIOL;19;NOUN;Out;;;0;0;0;1;0;1;0;1;0;1
+éclater;VIOL;19;VERB;Out;;;1;0;0;0;0;1;0;0;1;0
+inquiétude;VIOL;18;NOUN;Out;;;0;1;0;1;0;1;0;1;1;0
+lutte;VIOL;18;NOUN;Keep;;;1;0;0;1;0;1;0;0;0;0
+noyer;VIOL;18;VERB;Keep;;;0;0;0;1;0;1;0;1;0;0
+pierre;VIOL;18;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+pleurer;VIOL;18;VERB;Out;;;0;0;0;1;0;1;0;1;0;0
+reculer;VIOL;18;VERB;Out;Out of this category;;0;1;1;1;0;1;0;1;1;0
+saisir;VIOL;18;VERB;Out;;;1;1;0;1;0;1;0;1;0;0
+arrêt;VIOL;17;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+grondement;VIOL;17;NOUN;Keep;;;1;0;1;1;0;1;0;0;0;0
+jaloux;VIOL;17;ADJ;Keep;;possession;1;0;1;0;0;1;0;0;0;0
+possession;VIOL;17;NOUN;Keep;;possession;1;0;1;1;0;1;0;0;0;0
+délicat;VIOL;16;NOUN;Out;Out of this category;;0;0;1;1;0;1;0;0;0;0
+horreur;VIOL;16;NOUN;Keep;;;1;0;1;1;0;1;0;1;1;0
+masse;VIOL;16;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+mâle;VIOL;16;NOUN;Keep;Out of this category;corps;0;0;0;1;0;1;1;0;1;0
+surveillance;VIOL;16;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+triste;VIOL;16;ADJ;Out;;;1;0;0;1;0;1;0;1;0;0
+violemment;VIOL;16;ADV;Keep;;;1;0;1;1;0;1;0;1;0;0
+voler;VIOL;16;VERB;Keep;;possession;1;0;0;1;0;1;0;1;0;0
+éteindre;VIOL;16;VERB;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+étrangler;VIOL;16;VERB;Keep;;;1;0;1;1;0;1;0;1;1;0
+accusation;VIOL;15;NOUN;Keep;;;1;0;1;1;0;1;0;1;0;0
+couche;VIOL;15;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+effacer;VIOL;15;VERB;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+faute;VIOL;15;NOUN;Keep;;;1;0;1;1;0;1;0;0;0;0
+plainte;VIOL;15;NOUN;Out;;;1;0;0;0;0;1;0;0;0;0
+querelle;VIOL;15;NOUN;Keep;;;1;0;0;0;0;1;0;0;0;0
+soupçon;VIOL;15;NOUN;Out;;;0;0;0;1;0;1;0;0;0;0
+tempête;VIOL;15;NOUN;Out;Out of this category;;1;1;0;1;0;1;0;1;1;0
+cas;VIOL;14;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+conseiller;VIOL;14;VERB;Out;Out of this category;;1;0;0;1;0;1;1;0;0;1
+nerveux;VIOL;14;ADJ;Out;;;0;1;0;1;0;1;0;0;0;0
+poursuivre;VIOL;14;VERB;Out;;;1;0;0;1;0;1;0;1;0;0
+retirer;VIOL;14;VERB;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+solitude;VIOL;14;NOUN;Out;;;0;0;0;1;0;1;0;1;0;0
+tache;VIOL;14;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+déranger;VIOL;13;VERB;Out;Out of this category;;1;0;0;0;0;1;0;1;0;0
+désespoir;VIOL;13;VERB;Out;;;1;0;1;1;0;1;0;1;0;0
+grave;VIOL;13;ADJ;Keep;;;1;0;0;1;0;1;0;1;0;0
+malheur;VIOL;13;NOUN;Out;;;0;0;1;1;0;1;0;1;0;0
+prévenir;VIOL;13;VERB;Out;Out of this category;;0;1;0;1;0;1;0;0;1;1
+rare;VIOL;13;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;1;1;0
+brume;VIOL;12;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+demande;VIOL;12;NOUN;Out;Out of this category;;1;1;0;0;0;1;1;0;0;0
+ivre;VIOL;12;ADJ;Keep;;;0;0;1;0;0;1;0;0;0;0
+lâche;VIOL;12;NOUN;Out;;;1;0;1;1;0;1;0;1;0;0
+malheureux;VIOL;12;ADJ;Out;;;1;0;1;0;0;1;0;1;0;0
+prolonger;VIOL;12;VERB;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+rejeter;VIOL;12;VERB;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+renverser;VIOL;12;VERB;Out;Out of this category;;0;1;0;1;0;1;0;0;1;0
+solitaire;VIOL;12;ADJ;Out;;;1;0;1;1;0;1;0;1;0;0
+souffrance;VIOL;12;NOUN;Keep;;;0;0;1;1;0;1;0;1;0;0
+tremblant;VIOL;12;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+tromper;VIOL;12;VERB;Keep;;possession;1;0;1;1;0;1;0;1;0;1
+vol;VIOL;12;NOUN;Keep;;possession;1;0;1;1;0;1;0;1;0;0
+abandon;VIOL;11;NOUN;Out;;;1;0;0;1;0;1;0;1;1;0
+abomination;VIOL;11;NOUN;Keep;;;1;0;1;1;0;1;0;0;0;0
+accuser;VIOL;11;VERB;Out;;;1;0;1;1;0;1;0;0;0;0
+brûlant;VIOL;11;ADJ;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+compliquer;VIOL;11;VERB;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+effroyable;VIOL;11;ADJ;Keep;;;0;0;1;1;0;1;0;1;0;0
+irrésistible;VIOL;11;ADJ;Keep;Out of this category;Affect;1;0;0;1;0;1;1;0;0;0
+juger;VIOL;11;VERB;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+phrase;VIOL;11;NOUN;Out;Out of this category;;1;1;1;1;0;1;0;1;0;0
+prison;VIOL;11;NOUN;Out;;;1;0;0;1;0;1;0;1;0;0
+prétendre;VIOL;11;VERB;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+retard;VIOL;11;NOUN;Out;Out of this category;;1;0;1;1;0;1;0;1;0;0
+voleur;VIOL;11;NOUN;Out;;possession;1;0;1;1;0;1;0;1;1;0
+aigu;VIOL;10;ADJ;Out;Out of this category;;1;0;0;1;0;1;0;0;1;0
+anxieux;VIOL;10;ADJ;Out;;;0;1;0;1;0;1;0;0;0;0
+augmenter;VIOL;10;ADV;Out;Out of this category;;0;0;0;1;0;1;1;0;0;0
+brutal;VIOL;10;ADJ;Keep;;;1;0;0;1;0;1;0;0;0;0
+buffet;VIOL;10;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+effrayer;VIOL;10;VERB;Out;Out of this category;;1;1;0;1;0;1;0;1;1;0
+embarras;VIOL;10;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;1;1;0
+folie;VIOL;10;NOUN;Keep;;;1;0;1;1;0;1;0;1;0;0
+frémir;VIOL;10;VERB;Keep;;Corps;0;0;0;1;0;1;0;0;0;0
+guerre;VIOL;10;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+indifférent;VIOL;10;NOUN;Keep;Out of this category;Affect;1;0;1;0;0;1;0;1;0;0
+lourd;VIOL;10;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+risquer;VIOL;10;VERB;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+sale;VIOL;10;ADJ;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+écrasement;VIOL;10;NOUN;Keep;;;1;0;1;1;0;1;0;0;0;0
+étourdi;VIOL;10;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;1;0
+assassinat;VIOL;9;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+assassiner;VIOL;9;VERB;Keep;;;1;0;0;1;0;1;0;0;0;0
+attaquer;VIOL;9;VERB;Keep;;;1;0;1;1;0;1;0;1;1;0
+blesser;VIOL;9;VERB;Keep;;;1;0;0;1;0;1;0;1;0;0
+brute;VIOL;9;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+catastrophe;VIOL;9;NOUN;Keep;;;1;0;1;1;0;1;0;1;1;0
+cauchemar;VIOL;9;NOUN;Keep;;;0;0;0;1;0;1;0;0;0;0
+débauche;VIOL;9;NOUN;Keep;;;0;0;1;1;0;1;0;0;0;0
+désolation;VIOL;9;NOUN;Keep;;;0;0;0;1;0;1;0;1;0;0
+détruire;VIOL;9;VERB;Keep;;;1;0;1;1;0;1;0;1;1;0
+enfermer;VIOL;9;VERB;Out;;;0;0;0;1;0;1;0;1;0;0
+frais;VIOL;9;ADJ;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+hurler;VIOL;9;VERB;Keep;;;1;0;1;1;0;1;0;1;1;0
+interminable;VIOL;9;ADJ;Out;Out of this category;;1;1;0;0;0;1;1;0;0;0
+menace;VIOL;9;NOUN;Keep;;;1;0;0;1;0;1;0;0;0;0
+mentir;VIOL;9;VERB;Out;;;1;0;1;0;0;1;0;1;0;0
+misérable;VIOL;9;NOUN;Out;;;1;0;1;0;0;1;0;1;0;0
+plaindre;VIOL;9;VERB;Out;;;1;0;1;0;0;1;0;0;0;0
+prévenu;VIOL;9;NOUN;Out;Out of this category;;0;1;0;1;0;1;0;0;0;0
+réglementaire;VIOL;9;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+résister;VIOL;9;VERB;Out;Out of this category;;1;1;0;1;0;1;1;1;0;0
+révolte;VIOL;9;NOUN;Out;;;1;0;0;0;0;1;0;0;1;0
+sournois;VIOL;9;NOUN;Out;;;1;0;1;1;0;1;0;0;0;0
+tourmenter;VIOL;9;VERB;Keep;;;1;0;0;1;0;1;0;1;0;0
+vertige;VIOL;9;NOUN;Keep;;Corps;0;0;0;1;0;1;0;0;0;0
+agitation;VIOL;8;NOUN;Out;;;1;1;0;0;0;1;0;0;0;0
+assombrir;VIOL;8;VERB;Out;;;0;0;0;1;0;1;0;1;0;0
+blessure;VIOL;8;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+bouton;VIOL;8;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+créature;VIOL;8;NOUN;Keep;;;0;0;1;1;0;1;0;0;0;0
+dangereux;VIOL;8;ADJ;Keep;;;0;0;0;1;0;1;0;0;0;0
+débattre;VIOL;8;VERB;Out;Out of this category;;1;0;1;1;0;1;0;1;0;0
+désagréable;VIOL;8;ADJ;Keep;Out of this category;Affect;0;0;1;0;0;1;0;1;0;0
+incendie;VIOL;8;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;0;0;0
+lutter;VIOL;8;VERB;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+nier;VIOL;8;VERB;Out;Out of this category;;1;1;0;0;0;1;0;0;0;0
+procès;VIOL;8;NOUN;Out;Out of this category;;1;0;1;1;0;1;0;1;1;0
+proie;VIOL;8;NOUN;Keep;;;0;0;0;1;0;1;0;0;0;0
+tolérer;VIOL;8;VERB;Out;Out of this category;;1;0;0;0;0;1;0;1;0;0
+absence;VIOL;7;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+accusé;VIOL;7;NOUN;Out;;;1;0;0;1;0;1;0;0;0;0
+agonie;VIOL;7;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+biais;VIOL;7;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+blême;VIOL;7;NOUN;Keep;Out of this category;corps;0;0;0;1;0;1;0;1;0;0
+cochon;VIOL;7;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+disparu;VIOL;7;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;1;1;0
+douloureux;VIOL;7;ADJ;Out;;;1;0;1;1;0;1;0;1;0;0
+fureur;VIOL;7;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+goutte;VIOL;7;ADJ;Out;Out of this category;;0;0;1;1;0;1;0;0;0;0
+guerrier;VIOL;7;ADJ;Keep;;;1;0;0;1;0;1;1;0;0;0
+heurter;VIOL;7;VERB;Keep;;;1;0;0;1;0;1;0;0;0;0
+huissier;VIOL;7;NOUN;Out;Out of this category;;0;0;0;1;0;1;1;0;0;1
+lugubre;VIOL;7;NOUN;Keep;;;0;0;1;1;0;1;0;1;0;0
+obliger;VIOL;7;VERB;Out;Out of this category;;1;0;0;1;0;1;0;0;0;1
+opposition;VIOL;7;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+piège;VIOL;7;NOUN;Out;;;1;0;1;1;0;1;0;1;1;0
+plaie;VIOL;7;NOUN;Keep;;corps;1;0;0;1;0;1;0;1;0;0
+atroce;VIOL;6;ADJ;Keep;;;1;0;1;1;0;1;0;1;0;0
+averse;VIOL;6;NOUN;Out;Out of this category;;1;0;1;1;0;1;0;0;0;0
+avocat;VIOL;6;NOUN;Out;Out of this category;;1;0;1;1;0;1;1;0;0;1
+bataille;VIOL;6;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+boue;VIOL;6;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+chute;VIOL;6;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+claquer;VIOL;6;VERB;Out;Out of this category;;1;0;0;1;0;1;0;0;1;0
+confusion;VIOL;6;NOUN;Keep;Out of this category;Affect;1;0;0;1;0;1;0;0;0;0
+diable;VIOL;6;NOUN;Keep;;;1;1;1;1;0;1;0;1;0;0
+difficile;VIOL;6;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+désordre;VIOL;6;ADJ;Out;Out of this category;;0;0;1;1;0;1;0;0;0;0
+flamber;VIOL;6;VERB;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+fuite;VIOL;6;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+gouvernement;VIOL;6;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+gras;VIOL;6;ADJ;Out;Out of this category;;0;0;1;0;0;1;0;1;0;0
+gronder;VIOL;6;VERB;Keep;;;1;0;1;1;0;1;0;1;0;0
+hanter;VIOL;6;VERB;Keep;;;0;0;0;1;0;1;0;0;0;0
+impuissant;VIOL;6;ADJ;Out;Out of this category;;1;0;1;1;0;1;0;1;0;0
+intolérable;VIOL;6;ADJ;Keep;;;1;0;0;0;0;1;0;0;0;0
+livide;VIOL;6;ADJ;Keep;;corps;1;0;1;0;0;1;0;0;0;0
+maladie;VIOL;6;NOUN;Keep;;Corps;1;0;1;1;0;1;0;1;0;0
+oubli;VIOL;6;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;0;0;0
+perte;VIOL;6;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+péril;VIOL;6;NOUN;Keep;;;0;1;0;1;0;1;0;1;0;0
+reproche;VIOL;6;NOUN;Out;Out of this category;;1;0;1;0;0;1;0;1;0;0
+répugnance;VIOL;6;NOUN;Out;;;0;0;1;0;0;1;0;0;0;0
+saleté;VIOL;6;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+scandale;VIOL;6;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;0;0;0
+sonnerie;VIOL;6;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+sortie;VIOL;6;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;1;0
+torture;VIOL;6;NOUN;Keep;;;1;1;1;1;0;1;0;1;0;0
+vainement;VIOL;6;ADV;Out;Out of this category;;0;0;1;0;0;1;0;1;0;0
+égarer;VIOL;6;VERB;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+épouvantable;VIOL;6;ADJ;Keep;;;0;0;1;1;0;1;0;1;0;0
+étouffé;VIOL;6;ADJ;Out;;;1;0;0;1;0;1;0;1;0;0
+battement;VIOL;5;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+bestial;VIOL;5;ADJ;Keep;;;0;0;1;1;0;1;0;0;0;0
+cassé;VIOL;5;ADJ;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+clameur;VIOL;5;NOUN;Out;;;1;1;1;0;0;1;0;0;1;0
+criminel;VIOL;5;ADJ;Out;;;1;0;1;1;0;1;0;0;0;0
+diminuer;VIOL;5;VERB;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+dispute;VIOL;5;NOUN;Out;;;1;0;1;1;0;1;0;1;0;0
+dominer;VIOL;5;VERB;Out;;;1;0;0;1;0;1;1;0;0;0
+débris;VIOL;5;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+détresse;VIOL;5;NOUN;Keep;;;1;0;1;1;0;1;0;1;1;0
+ennuyer;VIOL;5;VERB;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+enterré;VIOL;5;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+entrailles;VIOL;5;NOUN;Keep;;corps;0;0;1;0;0;1;1;0;0;0
+fouet;VIOL;5;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+fâcheux;VIOL;5;ADJ;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+hallucination;VIOL;5;NOUN;Out;;;0;0;0;1;0;1;0;0;0;0
+ignorant;VIOL;5;ADJ;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+indifférence;VIOL;5;NOUN;Out;Out of this category;;1;0;1;1;0;1;0;1;0;0
+liaison;VIOL;5;NOUN;Out;Out of this category;;1;0;1;0;0;1;0;1;0;0
+mensonge;VIOL;5;NOUN;Out;Out of this category;;1;0;1;0;0;1;0;0;0;1
+mourant;VIOL;5;NOUN;Keep;;;1;0;1;1;0;1;0;1;0;0
+mépris;VIOL;5;NOUN;Out;Out of this category;;1;0;1;1;0;1;0;0;0;0
+odeur;VIOL;5;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+panique;VIOL;5;NOUN;Keep;;;0;0;0;1;0;1;0;0;0;0
+piquer;VIOL;5;VERB;Out;Out of this category;;1;0;1;1;0;1;0;0;1;0
+plomb;VIOL;5;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+retraite;VIOL;5;NOUN;Out;Out of this category;;0;1;0;1;1;1;1;1;0;1
+sauvagerie;VIOL;5;NOUN;Keep;;;1;0;0;1;0;1;0;0;0;0
+sifflement;VIOL;5;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;0;0;0
+spectre;VIOL;5;NOUN;Keep;;;0;0;0;1;0;1;0;1;0;0
+suicide;VIOL;5;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;0
+tourbillon;VIOL;5;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+traiter;VIOL;5;VERB;Out;Out of this category;;1;1;1;1;1;1;1;1;1;1
+étrange;VIOL;5;NOUN;Out;;;0;0;0;1;0;1;0;0;1;0
+étranger;VIOL;5;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+évanouissement;VIOL;5;ADV;Out;Out of this category;;0;0;0;1;0;1;0;1;1;0
+agité;VIOL;4;NOUN;Out;;;1;0;0;0;0;1;0;0;0;0
+alarme;VIOL;4;NOUN;Out;;;0;0;0;1;0;1;0;0;1;0
+anxiété;VIOL;4;NOUN;Out;;;1;1;0;1;0;1;0;1;0;0
+battu;VIOL;4;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+chaîne;VIOL;4;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;1;0;0
+combat;VIOL;4;NOUN;Out;;;1;0;0;1;0;1;0;0;0;0
+compromettre;VIOL;4;ADJ;Out;Out of this category;;1;0;0;1;0;1;0;0;0;0
+condamnation;VIOL;4;NOUN;Out;Out of this category;;1;1;1;1;0;1;0;1;0;0
+déraisonnable;VIOL;4;ADJ;Out;;;0;0;1;0;0;1;0;0;0;0
+examen;VIOL;4;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;1;0
+exécution;VIOL;4;NOUN;Keep;;;1;0;0;1;0;1;0;1;0;1
+frotter;VIOL;4;VERB;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+frémissant;VIOL;4;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+gonflé;VIOL;4;ADJ;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+grille;VIOL;4;NOUN;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+grognement;VIOL;4;NOUN;Keep;Out of this category;corps;1;0;0;1;0;1;0;0;0;0
+horrible;VIOL;4;ADJ;Keep;;;1;1;1;1;0;1;0;1;0;0
+humble;VIOL;4;NOUN;Out;Out of this category;;0;0;1;0;0;1;1;1;0;0
+hésitation;VIOL;4;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+impasse;VIOL;4;NOUN;Out;Out of this category;;1;0;1;1;0;1;0;0;0;0
+imposer;VIOL;4;VERB;Out;Out of this category;;1;0;0;1;0;1;1;0;0;0
+insensible;VIOL;4;ADJ;Out;;;1;0;1;0;0;1;0;0;0;0
+irréparable;VIOL;4;NOUN;Out;;;0;0;0;1;0;1;0;1;0;0
+jet;VIOL;4;NOUN;Out;Out of this category;;0;0;1;0;1;1;0;0;0;0
+maladif;VIOL;4;ADJ;Out;Out of this category;;0;0;1;0;0;1;0;1;0;0
+maladroit;VIOL;4;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+massacre;VIOL;4;NOUN;Keep;;;1;0;1;1;0;1;0;1;0;0
+misère;VIOL;4;NOUN;Out;;;1;0;1;1;0;1;0;1;0;0
+montée;VIOL;4;NOUN;Out;Out of this category;;0;1;0;1;0;1;1;0;0;0
+négligence;VIOL;4;NOUN;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+obstruer;VIOL;4;VERB;Out;Out of this category;;1;0;0;1;0;1;0;0;0;0
+pourrir;VIOL;4;VERB;Keep;Out of this category;Corps;0;0;1;1;0;1;0;1;0;0
+poursuite;VIOL;4;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+pressentiment;VIOL;4;NOUN;Out;Out of this category;;0;1;0;1;0;1;0;0;0;0
+pétard;VIOL;4;NOUN;Out;Out of this category;;1;1;0;1;0;1;0;0;1;0
+rancune;VIOL;4;NOUN;Out;;;1;0;0;0;0;1;0;0;0;0
+renvoi;VIOL;4;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+revolver;VIOL;4;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+risque;VIOL;4;NOUN;Out;Out of this category;;0;1;0;1;0;1;0;0;0;0
+rivalité;VIOL;4;NOUN;Keep;Out of this category;possession;1;0;0;0;0;1;0;0;0;0
+sanglant;VIOL;4;ADJ;Keep;;corps;1;0;1;1;0;1;0;1;0;0
+spasme;VIOL;4;NOUN;Keep;Out of this category;corps;0;0;0;1;0;1;0;0;0;0
+toilette;VIOL;4;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+tremblement;VIOL;4;NOUN;Out;;;1;1;0;1;0;1;0;1;0;0
+vengeance;VIOL;4;NOUN;Out;;;1;1;0;1;0;1;0;0;1;0
+amertume;VIOL;3;NOUN;Out;;;1;0;1;0;0;1;0;1;0;0
+assaut;VIOL;3;NOUN;Keep;;;1;0;0;1;0;1;0;0;0;0
+chargé;VIOL;3;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+condamner;VIOL;3;VERB;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+coupe;VIOL;3;NOUN;Out;Out of this category;;1;0;1;1;0;1;0;1;0;0
+culpabilité;VIOL;3;NOUN;Out;;;0;0;1;0;0;1;0;1;0;0
+destruction;VIOL;3;NOUN;Keep;;;1;0;0;0;0;1;0;0;0;0
+dépendance;VIOL;3;NOUN;Keep;Out of this category;possession;0;0;0;1;0;1;1;1;0;1
+encombrement;VIOL;3;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+enfer;VIOL;3;NOUN;Keep;;;1;0;1;1;0;1;0;1;0;0
+enterrement;VIOL;3;NOUN;Out;;;1;0;0;1;0;1;0;1;0;0
+FAUX;VIOL;3;ADJ;Out;Out of this category;;1;0;1;0;0;1;0;0;0;0
+flegme;VIOL;3;NOUN;Out;Out of this category;;0;0;1;0;0;1;0;0;0;0
+fragile;VIOL;3;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+féroce;VIOL;3;ADJ;Keep;;;1;0;1;1;0;1;0;0;0;0
+grogner;VIOL;3;VERB;Keep;;;1;0;0;0;0;1;0;0;0;0
+haine;VIOL;3;NOUN;Keep;;;1;0;1;1;0;1;0;1;0;0
+impuissance;VIOL;3;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+indicible;VIOL;3;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+inonder;VIOL;3;VERB;Out;Out of this category;;0;0;0;1;0;1;0;1;1;0
+insignifiant;VIOL;3;ADJ;Out;Out of this category;;1;0;0;0;0;1;0;1;0;0
+insouciance;VIOL;3;NOUN;Out;Out of this category;;1;0;1;1;0;1;0;0;1;0
+insupportable;VIOL;3;ADJ;Keep;;;0;0;1;0;0;1;0;1;0;0
+irritation;VIOL;3;NOUN;Out;Out of this category;;1;0;1;0;0;1;0;1;0;0
+isolé;VIOL;3;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+livre;VIOL;3;NOUN;Out;Out of this category;;1;0;0;0;0;1;0;0;0;0
+monstre;VIOL;3;NOUN;Keep;;;0;0;0;1;0;1;0;0;0;0
+ouragan;VIOL;3;NOUN;Keep;;;0;0;0;1;0;1;0;0;0;0
+paralyser;VIOL;3;VERB;Out;Out of this category;;0;0;1;1;0;1;0;1;0;0
+pignon;VIOL;3;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;0;0;0
+pire;VIOL;3;NOUN;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+plaider;VIOL;3;VERB;Out;Out of this category;;1;1;1;1;0;1;0;1;0;0
+pénible;VIOL;3;ADJ;Keep;;;1;0;0;1;0;1;0;1;0;0
+rhumatisme;VIOL;3;NOUN;Out;Out of this category;;1;0;0;1;0;1;0;1;0;0
+ruine;VIOL;3;NOUN;Keep;;;0;0;0;1;0;1;0;1;0;0
+supplice;VIOL;3;NOUN;Keep;;;1;0;0;0;0;1;0;0;1;0
+ternir;VIOL;3;VERB;Out;Out of this category;;0;0;1;0;0;1;0;1;0;0
+timide;VIOL;3;ADJ;Out;Out of this category;;0;0;0;1;0;1;0;1;0;0
+toux;VIOL;3;NOUN;Keep;Out of this category;Corps;0;0;1;0;0;1;0;0;0;0
+tribunal;VIOL;3;NOUN;Out;Out of this category;;0;1;1;1;0;1;0;0;0;1
+tromperie;VIOL;3;NOUN;Keep;Out of this category;possession;1;0;1;1;0;1;0;1;1;0
+tumulte;VIOL;3;NOUN;Keep;;;1;0;0;1;0;1;0;0;1;0
+échouer;VIOL;3;VERB;Out;Out of this category;;1;1;0;1;0;1;0;1;0;0
+étouffant;VIOL;3;ADJ;Out;Out of this category;;0;0;1;1;0;1;1;1;0;0
