@@ -1,0 +1,7 @@
+Source,Target,Weight,Type,Label
+Jacques,Lison,1,Directed,pousser
+Flore,Séverine,1,Directed,reconnaître
+Jacques,Flore,2,Directed,crier fixer
+Jacques,Séverine,6,Directed,avertir garder retenir sourire tourner trouver
+Séverine,Jacques,1,Directed,tourner
+Philomène,Jacques,1,Directed,rejoindre

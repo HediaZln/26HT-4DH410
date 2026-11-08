@@ -1,0 +1,27 @@
+Id,Label,type,group
+w_cavale,cavale,word,animal / temperament
+w_chéri,chéri,word,desire / possession
+w_docile,docile,word,animal / temperament
+w_désir,désir,word,desire / possession
+w_jaloux,jaloux,word,desire / possession
+w_morte,morte,word,violence / death
+w_mâle,mâle,word,animal / temperament
+w_posséder/possession,posséder/possession,word,desire / possession
+w_rétif,rétif,word,animal / temperament
+w_sang,sang,word,violence / death
+w_tuer,tuer,word,violence / death
+c_Cabuche,Cabuche,character,character
+c_Flore,Flore,character,character
+c_Grandmorin,Grandmorin,character,character
+c_Jacques,Jacques,character,character
+c_Jacques & Séverine,Jacques & Séverine,character,character
+c_Lison,Lison,character,character
+c_Louisette,Louisette,character,character
+c_Misard,Misard,character,character
+c_Ozil,Ozil,character,character
+c_Pecqueux,Pecqueux,character,character
+c_Phasie,Phasie,character,character
+c_Philomène,Philomène,character,character
+c_Roubaud,Roubaud,character,character
+c_Séverine,Séverine,character,character
+c_other_machine,other_machine,character,character
